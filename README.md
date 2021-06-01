@@ -1,6 +1,10 @@
 # Realtime Sign Language Translator
 This application translates American sign language into English language in realtime, by performing on-device machine learning.<br />
 
+## Project Team Members: <br />
+Machine Learning: Neha Gupta, [Kavin Kumar Singh](https://github.com/kavinsingh28) <br />
+Mobile Application: Mohit Jain
+
 ## Find APK Here: <br />
 https://github.com/codedog001/sign_language_translator_realtime/tree/main/Signalor%20APK
 
