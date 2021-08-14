@@ -6,7 +6,7 @@ Machine Learning: Neha Gupta, [Kavin Kumar Singh](https://github.com/kavinsingh2
 Mobile Application: Mohit Jain
 
 ## Find APK Here: <br />
-https://github.com/codedog001/sign_language_translator_realtime/tree/main/Signalor%20APK
+[APK](https://github.com/codedog001/sign_language_translator_realtime/files/6986923/APK.zip)
 
 ## Gesture images for reference: <br />
 https://github.com/codedog001/singnalor_ml_flutter/tree/main/Reference%20Images
